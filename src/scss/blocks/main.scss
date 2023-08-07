@@ -1,1 +1,37 @@
 /* ESTILOS DEL MAIN */
+
+.container{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: gray;
+    text-align: center;
+    padding: 30px;
+    margin-top: 50px;
+    border-radius: 40px;
+    color: white;
+    position: relative;
+    padding-bottom: 60px;
+}
+
+.pattern{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title{
+    color: greenyellow;
+}
+
+.button{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: greenyellow;
+    padding: 15px;
+    border-radius: 50px;
+    left: 45%;
+    bottom: -25px;
+
+}
